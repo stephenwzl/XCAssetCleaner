@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'XCAssetCleaner/Classes/**/*'
   s.preserve_path = '*'
+  s.exclude_files = 'xcasset-clean/*'
+  
   
   
   # s.resource_bundles = {
