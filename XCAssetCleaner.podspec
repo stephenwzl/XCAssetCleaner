@@ -31,6 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'XCAssetCleaner/Classes/**/*'
+  s.preserve_path = '*'
+  
   
   # s.resource_bundles = {
   #   'XCAssetCleaner' => ['XCAssetCleaner/Assets/*.png']
